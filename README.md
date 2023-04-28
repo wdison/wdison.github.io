@@ -1,6 +1,6 @@
 # wdison.github.io
 ### Resume from Wdison
-##### Netlify page
+#### Netlify page
 https://wdison.netlify.app/
-##### GitHub page
+#### GitHub page
 https://wdison.github.io/
