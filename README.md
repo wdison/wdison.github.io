@@ -2,6 +2,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wdison)](https://github.com/wdison)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wdison/)](https://www.linkedin.com/in/wdison)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/josewdison/)](https://www.instagram.com/josewdison/)
+[![Instagram Badge](https://img.shields.io/badge/Npm-red?style=flat-square&logo=npm&logoColor=white&link=https://www.npmjs.com/~wdison)](https://www.npmjs.com/~wdison)
 ### Resume from Wdison
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdison&layout=pie&theme=default)](https://github.com/wdison)
 [![card](https://github-readme-stats.vercel.app/api?username=wdison&theme=default&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/wdison)
