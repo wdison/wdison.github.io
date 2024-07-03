@@ -3,8 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wdison/)](https://www.linkedin.com/in/wdison)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/josewdison/)](https://www.instagram.com/josewdison/)
 ### Resume from Wdison
-[![card](https://github-readme-stats.vercel.app/api?username=wdison&theme=default&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/wdison)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdison&layout=pie&theme=default)](https://github.com/wdison)
+[![card](https://github-readme-stats.vercel.app/api?username=wdison&theme=default&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/wdison)
 ### GitHub Repos
 [![Readme Card Wdis Db](https://github-readme-stats.vercel.app/api/pin/?username=wdison&repo=wdis-db)](https://github.com/wdison/wdis-db)
 [![Readme Card Wdis Event](https://github-readme-stats.vercel.app/api/pin/?username=wdison&repo=wdis-event)](https://github.com/wdison/wdis-event)
